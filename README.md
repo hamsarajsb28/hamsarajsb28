@@ -9,7 +9,7 @@
 <br/>
 
 ![Education](https://img.shields.io/badge/B.E.-Information%20Science-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-7.78-7C3AED?style=flat-square&logo=bookstack&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-7.93-7C3AED?style=flat-square&logo=bookstack&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/hamsa-s-b-033432389" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:sbhamsaraj.28@gmail.com" target="_blank">
+<a href="mailto:hamsarajsb.28@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Say%20Hello-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
